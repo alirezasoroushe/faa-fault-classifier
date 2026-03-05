@@ -207,5 +207,8 @@ By deploying a containerized NLP pipeline to standardize this text into machine-
 > This directly accelerates the transition from legacy maintenance logs to a fully data-driven, predictive fleet management system.
 
 ---
+## 👨‍💻 Author
+Alireza Sorousheh
+---
 
 *Maintained for aviation safety research and industrial NLP classification.*
