@@ -207,6 +207,9 @@ By deploying a containerized NLP pipeline to standardize this text into machine-
 > This directly accelerates the transition from legacy maintenance logs to a fully data-driven, predictive fleet management system.
 
 ---
+*Dataset is intentionally constrained to 726 records as a proof-of-concept pipeline demonstration. The architecture is designed to scale: replacing the FAA SDRS sample with a full enterprise maintenance database would significantly improve model performance.*
+
+---
 ## 👨‍💻 Author
 Alireza Sorousheh
 ---
